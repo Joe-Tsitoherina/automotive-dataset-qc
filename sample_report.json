@@ -1,0 +1,12 @@
+{
+    "total_images": 3,
+    "total_labels": 3,
+    "matching_pairs": 2,
+    "missing_annotations": [
+        "car_002"
+    ],
+    "extra_annotations": [
+        "car_004"
+    ],
+    "qc_status": "FAIL"
+}
